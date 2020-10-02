@@ -113,5 +113,5 @@ restOptions: {
 
 * Román A. Sarria  
 
-* Based on Keystone Rest from Dan Quinn [https://github.com/danielpquinn/keystone-rest](Original Repository)  
+* Based on Keystone Rest from Dan Quinn [https://github.com/danielpquinn/keystone-rest] (Original Repository)  
 
